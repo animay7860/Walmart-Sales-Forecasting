@@ -1,5 +1,10 @@
 # Walmart Sales Forecasting App
 
+
+HuggingFace Space: https://huggingface.co/spaces/animay620/SMS_Spam_Classifier
+
+![image](https://github.com/animay7860/Walmart-Sales-Forecasting/assets/99870091/60e6887f-60a2-441e-b4e5-8c4fd0f62467)
+
 This Streamlit app is designed for predicting Walmart sales based on user-provided input. It utilizes a pre-trained model to make predictions, considering various input features such as store information, department, weather conditions, and economic indicators.
 
 ## Getting Started
